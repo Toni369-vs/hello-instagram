@@ -1,30 +1,23 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+![image](https://github.com/Toni369-vs/hello-instagram/assets/125910370/07dd056a-fbbc-461e-9125-8c1dd5f33aec)
 
-The most basic boilerplate for any 4Geeks Academy student, start your very first website from scratch.
+![image](https://github.com/Toni369-vs/hello-instagram/assets/125910370/4191259c-97cb-4e0d-b832-47ff05dc9219)
 
-> There is a view tutorial on [how to use this template to create your very first website here](https://youtu.be/dfbDCMu_p-0).
+![image](https://github.com/Toni369-vs/hello-instagram/assets/125910370/259f54da-23df-4044-a824-77f2928ada56)
 
-## What to do next?
 
-Create an `index.html` file with the [basic HTML structure](http://4geeks.com/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Instagram con Bootstrap
+Este es un proyecto web de una página de Instagram utilizando Bootstrap 5.3.0-alpha3. La página incluye una barra de navegación, pestañas de navegación, una galería de imágenes y una ventana modal para crear una publicación.
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+Requisitos
+Para visualizar la página, necesitas un navegador web moderno como Google Chrome, Mozilla Firefox o Microsoft Edge. No se necesita ninguna instalación especial.
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
+Cómo utilizar
+Simplemente abre el archivo index.html en tu navegador web y podrás ver la página de Instagram. La barra de navegación te permite navegar a diferentes secciones de la página. La galería de imágenes contiene una serie de imágenes en miniatura que se pueden hacer clic para ver en tamaño completo. También puedes crear una nueva publicación haciendo clic en el botón "Create a new post" en la barra de navegación y completando los detalles en la ventana modal que se abre.
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+Tecnologías utilizadas
+Este proyecto utiliza las siguientes tecnologías:
 
-### Contributors
-
-This template was built as part of the [Full Stack Developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at [4Geeks Academy Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/html-hello/graphs/contributors).
-
-You can find other templates and resources like this at the [school github page](https://github.com/4geeksacademy/).
+HTML5
+CSS3
+Bootstrap 5.3.0-alpha3
+Font Awesome 6.0.0-beta2
